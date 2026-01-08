@@ -1,2 +1,0 @@
-Executar no Powershell como Admin
-Set-ExecutionPolicy Unrestricted -Force 
